@@ -1,0 +1,10 @@
+Copyright (c) 2025 Amrit Priyadarshi
+
+All rights reserved. Unauthorized copying, distribution, modification, or use
+of this software is strictly prohibited without explicit permission from the author.
+
+This software may not be sold, used for commercial purposes, or integrated into
+other projects without a written agreement.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. BY USING THIS
+SOFTWARE, YOU AGREE THAT THE AUTHOR IS NOT RESPONSIBLE FOR ANY DAMAGES OR LOSSES.
